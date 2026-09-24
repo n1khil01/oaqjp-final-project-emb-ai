@@ -1,0 +1,7 @@
+theia@theiadocker-nickatknox:/home/project/oaqjp-final-project-emb-ai/final_project$ python3 -m unittest t
+est_emotion_detection.py
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.670s
+
+OK
